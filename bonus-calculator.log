@@ -1,0 +1,38 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< ru.netology:bonus-calculator >--------------------
+[INFO] Building bonus-calculator 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ bonus-calculator ---
+[INFO] Deleting C:\Users\1\Desktop\QA\Netology\Presentation\JAVA\Readlogs\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ bonus-calculator ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ bonus-calculator ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 2 source files to C:\Users\1\Desktop\QA\Netology\Presentation\JAVA\Readlogs\target\classes
+[INFO] 
+[INFO] >>> spotbugs-maven-plugin:4.0.0:check (default-cli) > :spotbugs @ bonus-calculator >>>
+[INFO] 
+[INFO] --- spotbugs-maven-plugin:4.0.0:spotbugs (spotbugs) @ bonus-calculator ---
+[INFO] Fork Value is true
+[INFO] Done SpotBugs Analysis....
+[INFO] 
+[INFO] <<< spotbugs-maven-plugin:4.0.0:check (default-cli) < :spotbugs @ bonus-calculator <<<
+[INFO] 
+[INFO] 
+[INFO] --- spotbugs-maven-plugin:4.0.0:check (default-cli) @ bonus-calculator ---
+[INFO] BugInstance size is 0
+[INFO] Error size is 0
+[INFO] No errors/warnings found
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  8.099 s
+[INFO] Finished at: 2022-02-10T21:22:57+03:00
+[INFO] ------------------------------------------------------------------------
+
+Process finished with exit code 0
